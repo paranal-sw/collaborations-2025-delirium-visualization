@@ -3,7 +3,7 @@ Paranal/UFRO collaboration project to visualize rail adjustment heatmap over tim
 
 ## Description
 
-This project aims to visualize the heatmap of the rail adjustments over time based on daily correction files. 
+This project aims to visualize the heatmap of the rail adjustments over time based on daily correction files. See [REFERENCES](REFERENCES.md) file for more details.
 
 ## Objectives and Scope
 
@@ -59,6 +59,8 @@ This project is a joint effort between Paranal and UFRO, and collaboration requi
 * [notebooks](./notebooks): Jupyter notebooks for iterative development  
 * [reports](./reports): Meeting notes, PDFs, or intermediate results  
 * [deliverables](./deliverables): Final version of the Jupyter notebook
+
+See also [REFERENCES.md](./REFERENCES.md) for contextual information about the interferometer.
 
 ## Install
 Create and activate a virtual environment (recommended):
